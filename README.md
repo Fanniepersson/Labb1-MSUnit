@@ -2,6 +2,8 @@
 My first MSUnit test program
 
 
+Denna uppgift handlar om att skapa enhetstester (unittesting) för programvara i C#/.NET.
+
 Jag har valt ut tre delar av programmet som har affärskritiska delar, det är följande:
 
 1. Inloggning
